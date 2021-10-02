@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">loanCalc</string>
+
+    <string name="A">Loan Amount</string>
+    <string name="R">Annual Interest Rate</string>
+    <string name="T">Loan Term in Years</string>
+    <string name="F">Loan Fee</string>
+    <string name="M">Minimum Payment</string>
+    <string name="Calculate">Calculate</string>
+
+    <string name="monthly">Monthly Payment</string>
+    <string name="interest">Total Interest</string>
+
+
+</resources>
